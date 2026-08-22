@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: handsmoothing-optimization-engine
+Version: 0.1.0
+Summary: CP-SAT optimization engine for integer norm-curve hand smoothing
+Requires-Python: >=3.11
+Requires-Dist: openpyxl>=3.1
+Requires-Dist: ortools>=9.10

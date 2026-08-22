@@ -1,0 +1,2 @@
+[console_scripts]
+soe = handsmoothing_soe.cli:main

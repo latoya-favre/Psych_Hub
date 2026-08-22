@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Databricks: /",
+			"uri": "databricks:/"
+		}
+	],
+	"settings": {}
+}
